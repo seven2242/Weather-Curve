@@ -6,7 +6,7 @@
 原作者：jimmy@chenjmg
 仓库地址：https://gitee.com/chenjmg/qt-weather
 
-# 如您需要使用该软件和代码，请附上以下文字
+### 如您需要使用该软件和代码，请附上以下文字
 ```
 Copyright [2023] [Free Flying Pig]
 
