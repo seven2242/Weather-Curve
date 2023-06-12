@@ -13,8 +13,8 @@ Widget::Widget(QWidget *parent)
     setWindowTitle(tr("天气"));
     setWindowFlags(Qt::WindowStaysOnBottomHint| Qt::FramelessWindowHint);//去掉标题栏
 
-    setAttribute(Qt::WA_TranslucentBackground, true);//设置窗口背景透明
-    //setWindowOpacity(0.65);
+    //setAttribute(Qt::WA_TranslucentBackground, true);//设置窗口背景透明
+    setWindowOpacity(0.65);
     QBitmap bmp(this->size());
     bmp.fill();
     QPainter p(&bmp);
