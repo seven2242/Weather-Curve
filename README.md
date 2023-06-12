@@ -1,5 +1,5 @@
 # Weather-Curve
-
+<img src="https://github.com/seven2242/Weather-Curve/blob/master/weather/weather_icon.png" width="100px">
 天气愈报 是一款基于QT框架开发的天气小软件，目前仍在初始阶段，有许多不足，正在更新中……
 
 同时，这款软件是基于开源代码进行更改的
